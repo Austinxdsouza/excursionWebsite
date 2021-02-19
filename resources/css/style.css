@@ -12,9 +12,9 @@ body{
     color: #ffffff;
     font-weight: 300px;
     font-size: 42px;
-}.sub--header{
-    font-size: 21;
-    color: gainsboro;
+}.header--sub-heade{
+    font-size: 21px;
+    color: lightgray;
 }
 .link--cta{
     font-size: 16px;
